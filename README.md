@@ -1,2 +1,2 @@
 
-For Training Purpose
+For Training Purposes
